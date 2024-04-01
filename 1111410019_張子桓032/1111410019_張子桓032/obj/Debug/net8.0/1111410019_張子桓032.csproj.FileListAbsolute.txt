@@ -1,0 +1,14 @@
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\bin\Debug\net8.0\1111410019_張子桓032.exe
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\bin\Debug\net8.0\1111410019_張子桓032.deps.json
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\bin\Debug\net8.0\1111410019_張子桓032.runtimeconfig.json
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\bin\Debug\net8.0\1111410019_張子桓032.dll
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\bin\Debug\net8.0\1111410019_張子桓032.pdb
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\obj\Debug\net8.0\1111410019_張子桓032.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\obj\Debug\net8.0\1111410019_張子桓032.AssemblyInfoInputs.cache
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\obj\Debug\net8.0\1111410019_張子桓032.AssemblyInfo.cs
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\obj\Debug\net8.0\1111410019_張子桓032.csproj.CoreCompileInputs.cache
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\obj\Debug\net8.0\1111410019_張子桓032.dll
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\obj\Debug\net8.0\refint\1111410019_張子桓032.dll
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\obj\Debug\net8.0\1111410019_張子桓032.pdb
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\obj\Debug\net8.0\1111410019_張子桓032.genruntimeconfig.cache
+C:\Users\X555L\source\repos\1111410019_張子桓032\1111410019_張子桓032\obj\Debug\net8.0\ref\1111410019_張子桓032.dll
